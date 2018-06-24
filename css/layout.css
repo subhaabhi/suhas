@@ -920,8 +920,9 @@ a.scroll-down.scroll-yt {
 }
 
 img.small-img{
-  height: 127px;
+  height: 20%;
   width: 135px;
+  padding: 10px;
 }
 
 .custom-about-cols{
