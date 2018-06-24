@@ -208,35 +208,35 @@ jQuery(document).ready(function($){
 	
  	//Facts Counter 
 	
-	jQuery(document).ready(function($){
-        $('.counter-facts').counterUp({
-            delay: 100,
-            time: 3000
-        });
-    });
+	// jQuery(document).ready(function($){
+ //        $('.counter-facts').counterUp({
+ //            delay: 100,
+ //            time: 3000
+ //        });
+ //    });
 	
 	
  	//Skills Counter 
 	
-	jQuery(document).ready(function($){
-        $('.counter-skills').counterUp({
-            delay: 100,
-            time: 3000
-        });
-    });	
+	// jQuery(document).ready(function($){
+ //        $('.counter-skills').counterUp({
+ //            delay: 100,
+ //            time: 3000
+ //        });
+ //    });
 
 	//Responsive video
 	
-	$(".container").fitVids();
+	// $(".container").fitVids();
 
  
 	//Full Accordion	
 	
-	jQuery(document).ready(function($){
-		$(".accordion").smk_Accordion({
-			closeAble: true 
-		});
-	});
+	// jQuery(document).ready(function($){
+	// 	$(".accordion").smk_Accordion({
+	// 		closeAble: true
+	// 	});
+	// });
 
 	
   })(jQuery); 

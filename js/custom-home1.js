@@ -208,9 +208,9 @@ jQuery(document).ready(function($){
 	
 	//Tooltip
 
-	$(document).ready(function() {
-		$(".tipped").tipper();
-	});	
+	// $(document).ready(function() {
+	// 	$(".tipped").tipper();
+	// });
 
 
 

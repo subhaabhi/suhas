@@ -99,16 +99,16 @@
 			}
 			
 			
-			container.imagesLoaded(function () { 
-				setColumnWidth();
+			// container.imagesLoaded(function () {
+			// 	setColumnWidth();
 				
 				
-				container.isotope( { 
-					itemSelector : '.portfolio-box-1', 
-					layoutMode : 'masonry', 
-					resizable : false 
-				} );
-			} );
+			// 	container.isotope( {
+			// 		itemSelector : '.portfolio-box-1',
+			// 		layoutMode : 'masonry',
+			// 		resizable : false
+			// 	} );
+			// } );
 			
 			
 		
@@ -165,11 +165,11 @@
 		
 	//Colorbox single project pop-up
 	
-	jQuery(document).ready(function($){
-		$(".group1").colorbox({rel:'group1', maxWidth:'95%', maxHeight:'95%'});
-		$(".youtube").colorbox({iframe:true, innerWidth:940, innerHeight:450});
-		$(".vimeo").colorbox({iframe:true, innerWidth:940, innerHeight:450});
-	});
+	// jQuery(document).ready(function($){
+	// 	$(".group1").colorbox({rel:'group1', maxWidth:'95%', maxHeight:'95%'});
+	// 	$(".youtube").colorbox({iframe:true, innerWidth:940, innerHeight:450});
+	// 	$(".vimeo").colorbox({iframe:true, innerWidth:940, innerHeight:450});
+	// });
 	
 
 
