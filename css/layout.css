@@ -679,7 +679,7 @@ a.scroll-down.scroll-yt {
   font-size: 23px; 
   line-height:23px;
   z-index: 20; 
-  margin-left: 100px;
+  margin-left: 150px;
 }
 
 
@@ -2163,7 +2163,7 @@ img.small-img{
 	-webkit-box-sizing: content-box;
 	box-sizing: content-box;
 	width: 100%;
-	height: 2px;
+	height: 5px;
 	background: #ccc;
 }
 .pro-bar-margin {
@@ -2191,7 +2191,7 @@ img.small-img{
 }
 .pro-bar {
 	position:relative;
-	height: 2px;
+	height: 5px;
 	overflow:hidden;
 }
 	.pro-bar.bar-100	{ width: 100%; }
@@ -2736,7 +2736,7 @@ img.small-img{
 .big-text-pages-top-about { 
   position: absolute; 
   top: 30%;
-  margin-top:-40px;
+  margin-top:-60px;
   width: 100%;
   text-align:center;
   z-index: 20; 

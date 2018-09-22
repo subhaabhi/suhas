@@ -95,7 +95,7 @@
 			
 			function reArrangeProjects() { 
 				setColumnWidth();
-				container.isotope('reLayout');
+				// container.isotope('reLayout');
 			}
 			
 			
