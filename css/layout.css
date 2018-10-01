@@ -1913,7 +1913,7 @@ img.small-img{
 	color:#000;
 	padding-left:40px;
 	padding-top:30px;
-	padding-bottom:20px;
+	/*padding-bottom:20px;*/
 	font-style: italic;
 	font-family: 'Open Sans', sans-serif;
 	font-weight:400;
